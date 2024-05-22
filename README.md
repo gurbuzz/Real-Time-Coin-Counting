@@ -1,2 +1,2 @@
 # Real-Time-Coin-Counting
-Gerçek zamanlı olarak madeni para sayımı yapan görüntü işleme programı.
+Image processing program that counts money in real time.
